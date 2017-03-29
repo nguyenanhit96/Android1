@@ -3,4 +3,8 @@ ahihi
 ahihih
 ahihihi
 ahuhuhuh
+<<<<<<< HEAD
 ahihihihihi
+=======
+ahehehehe
+>>>>>>> origin/master
